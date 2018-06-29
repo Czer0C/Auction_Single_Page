@@ -1,9 +1,11 @@
-<h1>Đồ án WEB2</h1>
+<h1>Đồ án cuối kì môn lập trình Web 2</h1>
 <span>-------------------------</span><br>
-<h2>Chidori</h2>
-<p>
-    Thành viên nhóm:
-    1560675 - Dương Quang Vinh
-    1560602 - Nguyễn Hải Triều
-    1560581 - Đặng Mai Tính
-</p>
+<h2>Tên trang web: Chidori</h2>
+<p>Thành viên nhóm:</p>
+	
+<li>
+	<ul>1560675 - Dương Quang Vinh</ul>
+	<ul>1560602 - Nguyễn Hải Triều</ul>
+	<ul>1560581 - Đặng Mai Tính</ul>
+</li>
+
