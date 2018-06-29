@@ -13,14 +13,14 @@
 1. Tạo 1 trang web **single-page** với mục đích phục vụ cho nhu cầu đấu giá.
 2. Khi người dùng **chưa đăng nhập** thì chỉ hiện trang chào mừng với 2 form đăng nhập và đăng ký.
 3. Có **chứng thực** để tránh các tình huống sử dụng web không hợp lệ.
-4. Chức năng người dùng:
+4. **Chức năng người dùng**:
 	*  Cho phép xem danh sách các sản phẩm đang được đấu giá với thời gian còn lại.
 	*  Cho phép xem danh sách theo loại sản phẩm.
 	*  Cho phép người dùng vào đấu giá 1 sản phẩm.
 	*  Có lưu lại lịch sử đấu giá của 1 sản phẩm nào đó.
 	*  Có chức năng giỏ hàng.
 	*  Có phần đơn hàng để xác nhận thanh toán.
-5. Chức năng admin:
+5. **Chức năng admin**:
 	*  Cho phép quản lý sản phẩm với các chức năng thêm xóa sửa.
 	*  Cho phép quản lý phiên đấu giá với các chức năng thêm xóa sửa kèm theo giao hàng.
 	*  Có trang thống kê doanh thu và các chỉ số khác của trang web.
